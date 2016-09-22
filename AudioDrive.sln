@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F6A9EF5E-6C83-5DBA-6216-602BF4C91781}") = "AudioDrive", "Assembly-CSharp-firstpass.csproj", "{3AB5DB2A-165F-C7F2-7C56-21C0BE30E78A}"
+EndProject
+Project("{F6A9EF5E-6C83-5DBA-6216-602BF4C91781}") = "AudioDrive", "Assembly-CSharp.csproj", "{C15FDA42-4B13-2187-5F36-DBCDC7243DFF}"
+EndProject
+Project("{F6A9EF5E-6C83-5DBA-6216-602BF4C91781}") = "AudioDrive", "Assembly-CSharp-Editor.csproj", "{60D986F1-D298-30B5-BC71-56F55D67ACDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB5DB2A-165F-C7F2-7C56-21C0BE30E78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB5DB2A-165F-C7F2-7C56-21C0BE30E78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB5DB2A-165F-C7F2-7C56-21C0BE30E78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB5DB2A-165F-C7F2-7C56-21C0BE30E78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15FDA42-4B13-2187-5F36-DBCDC7243DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15FDA42-4B13-2187-5F36-DBCDC7243DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15FDA42-4B13-2187-5F36-DBCDC7243DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15FDA42-4B13-2187-5F36-DBCDC7243DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D986F1-D298-30B5-BC71-56F55D67ACDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D986F1-D298-30B5-BC71-56F55D67ACDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D986F1-D298-30B5-BC71-56F55D67ACDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D986F1-D298-30B5-BC71-56F55D67ACDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
