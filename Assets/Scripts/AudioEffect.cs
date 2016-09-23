@@ -20,12 +20,10 @@ public class AudioEffect : MonoBehaviour {
 			packageData += System.Math.Abs (info [x]);
 		}
 
-		Vector3 temp = transform.localScale; 
+		Vector3 temp = transform.localScale;
 		temp.y = (startScale + packageData * amplitude);
 		temp.x = (startScale + packageData * amplitude);
 		temp.z = (startScale + packageData * amplitude);
 		transform.localScale = temp;
-
-
 	}
 }
